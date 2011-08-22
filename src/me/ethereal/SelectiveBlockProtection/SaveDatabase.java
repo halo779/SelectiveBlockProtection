@@ -1,4 +1,4 @@
-package me.cvenomz.OwnBlocks;
+package me.ethereal.SelectiveBlockProtection;
 
 import org.bukkit.plugin.Plugin;
 

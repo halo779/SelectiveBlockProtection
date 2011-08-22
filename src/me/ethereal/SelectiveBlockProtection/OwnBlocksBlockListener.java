@@ -1,4 +1,4 @@
-package me.cvenomz.OwnBlocks;
+package me.ethereal.SelectiveBlockProtection;
 
 import java.util.Map;
 import java.util.logging.Logger;
